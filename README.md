@@ -15,3 +15,9 @@ run nodemon server.js
 //FRONTEND SIDE
 cd tinder-clone
 npm start
+
+
+OR
+
+just cd tinder-clone
+npm start :)
